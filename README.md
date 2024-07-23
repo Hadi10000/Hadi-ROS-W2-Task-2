@@ -13,5 +13,3 @@ the last {rosrun turtlesim turtle_teleop_key} to control turtlesim.
 
 ### and bob's your uncle
 ![image](https://github.com/user-attachments/assets/728908a8-497b-4cb2-965c-26509489716d)
-
-## turtlesim in ROS foxy
